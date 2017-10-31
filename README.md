@@ -6,7 +6,7 @@ Beginner Kit for Arduino - Example Sketches
 [*Beginner Kit Arduino DFRobot*](https://play.google.com/store/apps/details?id=com.bluino.beginnerkitarduinodfrobot) (an App Android)
 
 The example sketches in this repository are part of the Beginner Kit Arduino DFRobot (an Android App).  
-The new version Kit comes with 20 high quality components and 15 project flash cards which make the kit easy to learn and teach.
+The new version Kit comes with 20 high quality components and 15 project flash cards which make the kit easy to learn and teach.  
 A DFRduino UNO R3 (Compatible with Arduino Uno R3), the most stable and commonly used Arduino processor which is 100% compatible with Arduino IDE, together with DFRobot's best selling arduino prototype shield are included in this kit.
 
 
