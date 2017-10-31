@@ -2,8 +2,8 @@ Beginner Kit for Arduino - Example Sketches
 ======================================================
 
 [![Beginner Kit for Arduin](http://image.dfrobot.com/image/cache/_DSC5327-900x600.jpg)    
-*Beginner Kit Arduino DFRobot (an App Android)*](https://play.google.com/store/apps/details?id=com.bluino.beginnerkitarduinodfrobot)  
-*Beginner Kit for Arduino (Best Starter Kit)*](https://www.dfrobot.com/product-345.html)
+*Beginner Kit for Arduino (Best Starter Kit)*](https://www.dfrobot.com/product-345.html)  
+[*Beginner Kit Arduino DFRobot*](https://play.google.com/store/apps/details?id=com.bluino.beginnerkitarduinodfrobot) (an App Android)
 
 The example sketches in this repository are part of the Beginner Kit Arduino DFRobot (an Android App).  
 The new version Kit comes with 20 high quality components and 15 project flash cards which make the kit easy to learn and teach.
